@@ -6,6 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <div>
+    <h1>Hello app</h1>
     <App href="https://www.youtube.com" text="Youtube"/>,
     <App href="https://www.google.com" text="Google"/>,
     <App href="https://www.facebook.com" text="Facebook"/>,

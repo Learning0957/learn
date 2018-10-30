@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h1>Hello app from branch 1</h1>
         <a href={this.props.href} target="_blank" >{this.props.text}</a>
       </div>
     );
